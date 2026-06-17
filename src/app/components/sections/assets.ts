@@ -1,0 +1,16 @@
+export { default as imgBackgroundImage } from "../../../imports/01HomePageLight/b7089961164dd3d96eb61bd7b4822bb8e0953967.png";
+export { default as imgLogo } from "../../../imports/01HomePageLight/920de045e7cd76ae6919224d6f9837cb0536846d.png";
+export { default as imgAppStore } from "../../../imports/01HomePageLight/c52d780b7f4ede1720c93645d3ed6099bc5d537d.png";
+export { default as imgGooglePlay } from "../../../imports/01HomePageLight/a522304a8c74ef585b38a629cb918edf7f116e05.png";
+export { default as imgHeroPhone } from "../../../imports/01HomePageLight/c14d77e3a731f607bcb9c1144bd35527e6a3d633.png";
+export { default as imgAboutPhone } from "../../../imports/01HomePageLight/91498b75051f3be64d72d95eb3d9b60de0b7e1c3.png";
+export { default as imgFeaturePhone } from "../../../imports/01HomePageLight/dbf52aa45dcee540a0b5437acaaf9bd18e1f6195.png";
+export { default as imgDownloadPhones } from "../../../imports/01HomePageLight/c1e0d8bad68a1eae874b44857a021f9e647a7def.png";
+export { default as imgVideoThumb } from "../../../imports/01HomePageLight/c65b0e9f7896d9c2c41b100445a28ae26a0a5840.png";
+export { default as imgProfile1 } from "../../../imports/01HomePageLight/f8c3899bc12eb2a6edf4e51bba4587e22a7a75ce.png";
+export { default as imgProfile2 } from "../../../imports/01HomePageLight/9bad8fface237cf2732fb1f2e327ad1b3698f79c.png";
+export { default as imgProfile3 } from "../../../imports/01HomePageLight/1f731da3717a102ba322eb4f4165c1f389aa38bc.png";
+export { default as imgTestimonial } from "../../../imports/01HomePageLight/8192acaa231cad3129c64f95e7223b7a141a7b60.png";
+export { default as imgBlog1 } from "../../../imports/01HomePageLight/720a92634365ba980b3003fb59f2946c61c03b11.png";
+export { default as imgBlog2 } from "../../../imports/01HomePageLight/1ee66b216ce2a319d530cfae25161218abc2364d.png";
+export { default as imgBlog3 } from "../../../imports/01HomePageLight/dd5102e143afcf12ae87f9133e53f5a55ee95572.png";
